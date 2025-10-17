@@ -50,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4058-compute-alternating-sum](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4058-compute-alternating-sum) |
+## Math
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2507-number-of-common-factors) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
