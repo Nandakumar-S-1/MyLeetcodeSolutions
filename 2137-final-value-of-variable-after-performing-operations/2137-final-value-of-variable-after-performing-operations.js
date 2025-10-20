@@ -5,10 +5,8 @@
 var finalValueAfterOperations = function(operations) {
     let X=0
     for(let i of operations){
-        if(i==='--X')--X
-        else if(i==='X++')X++
-        else if(i==='X--')X--
-        else ++X
+        if(i.includes('+')) X++
+        else X--
     }
     return X
 };
