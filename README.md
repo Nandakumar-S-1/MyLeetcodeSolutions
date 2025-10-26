@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2507-number-of-common-factors) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
