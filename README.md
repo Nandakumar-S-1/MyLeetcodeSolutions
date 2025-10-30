@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0071-simplify-path) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
