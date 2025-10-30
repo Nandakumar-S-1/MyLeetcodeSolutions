@@ -4,7 +4,6 @@
  */
 var simplifyPath = function (path) {
     let values = path.split('/')
-    // console.log(values)
     let res = []
     for (let i of values) {
         if (i === '..') {
@@ -18,5 +17,4 @@ var simplifyPath = function (path) {
         }
     }
     return '/' + res.join('/')
-    // console.log(res)
 };
