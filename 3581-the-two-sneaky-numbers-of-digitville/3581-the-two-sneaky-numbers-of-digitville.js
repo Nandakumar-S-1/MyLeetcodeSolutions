@@ -3,15 +3,15 @@
  * @return {number[]}
  */
 var getSneakyNumbers = function(nums) {
-    let freq={}
+    let freq=new Map()
     let res=[]
     for(let i of nums){
-        freq[i]=(freq[i]||0)+1
-    }
-    for(let i in freq){
-        if(freq[i]===2){
-            res.push(Number(i))
+        let count=(freq.get(i)||0)+1
+        freq.set(i,count)
+        if(count===2){
+            res.push(i)
         }
     }
+
 return res
 };
