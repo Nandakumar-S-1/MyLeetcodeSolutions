@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4058-compute-alternating-sum](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4058-compute-alternating-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
