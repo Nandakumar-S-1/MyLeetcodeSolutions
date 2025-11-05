@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4058-compute-alternating-sum](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4058-compute-alternating-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4107-find-missing-elements](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4107-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4107-find-missing-elements](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4107-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [4107-find-missing-elements](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4107-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
