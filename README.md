@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0071-simplify-path](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0071-simplify-path) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
