@@ -7,9 +7,7 @@ var findMissingElements = function (nums) {
     let max = Math.max(...nums)
     let res = []
     for (let i = min; i <= max; i++) {
-        if (!nums.includes(i)) {
-            res.push(i)
-        }
+        if (!nums.includes(i))res.push(i)
     }
     return res
 };
