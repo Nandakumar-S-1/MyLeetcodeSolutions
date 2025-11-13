@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0777-toeplitz-matrix](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0777-toeplitz-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1580-shuffle-the-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1580-shuffle-the-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
