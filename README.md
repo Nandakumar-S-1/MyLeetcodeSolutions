@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3994-find-the-least-frequent-digit](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3994-find-the-least-frequent-digit) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4039-compute-decimal-representation](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4039-compute-decimal-representation) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3994-find-the-least-frequent-digit](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3994-find-the-least-frequent-digit) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4107-find-missing-elements](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4107-find-missing-elements) |
 ## Stack
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Backtracking
 |  |
 | ------- |
