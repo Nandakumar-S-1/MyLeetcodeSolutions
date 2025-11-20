@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4107-find-missing-elements) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3994-find-the-least-frequent-digit](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3994-find-the-least-frequent-digit) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4039-compute-decimal-representation](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4039-compute-decimal-representation) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
 |  |
 | ------- |
