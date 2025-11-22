@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3373-maximum-prime-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3373-maximum-prime-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2507-number-of-common-factors) |
 | [2571-find-the-pivot-integer](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2571-find-the-pivot-integer) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3373-maximum-prime-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3373-maximum-prime-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
