@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3373-maximum-prime-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3373-maximum-prime-difference) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0777-toeplitz-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Simulation
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Backtracking
 |  |
