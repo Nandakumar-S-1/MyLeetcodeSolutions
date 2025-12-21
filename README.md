@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2391-strong-password-checker-ii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2391-strong-password-checker-ii) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3174-clear-digits) |
 | [3312-number-of-changing-keys](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3312-number-of-changing-keys) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3174-clear-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
