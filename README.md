@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0066-plus-one](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0367-valid-perfect-square) |
