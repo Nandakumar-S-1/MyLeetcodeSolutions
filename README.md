@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0777-toeplitz-matrix) |
 | [0929-unique-email-addresses](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0645-set-mismatch) |
 | [0929-unique-email-addresses](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0929-unique-email-addresses) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
