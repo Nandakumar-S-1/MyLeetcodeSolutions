@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2239-find-closest-number-to-zero](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2239-find-closest-number-to-zero) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [2507-number-of-common-factors](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2507-number-of-common-factors) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Number Theory
 |  |
 | ------- |
