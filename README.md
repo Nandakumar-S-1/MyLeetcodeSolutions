@@ -280,4 +280,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2571-find-the-pivot-integer) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
