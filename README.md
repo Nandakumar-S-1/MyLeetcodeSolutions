@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1200-minimum-absolute-difference) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1580-shuffle-the-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1580-shuffle-the-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0645-set-mismatch) |
 | [1200-minimum-absolute-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
