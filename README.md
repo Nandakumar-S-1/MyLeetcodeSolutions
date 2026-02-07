@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2574-left-and-right-sum-differences) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3373-maximum-prime-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3373-maximum-prime-difference) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3174-clear-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
