@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0942-di-string-match) |
+| [1382-balance-a-binary-search-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -293,10 +294,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0226-invert-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0226-invert-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -305,4 +308,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0226-invert-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
