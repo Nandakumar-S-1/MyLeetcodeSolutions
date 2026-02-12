@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3713-longest-balanced-substring-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 | [3994-find-the-least-frequent-digit](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3994-find-the-least-frequent-digit) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4011-smallest-absent-positive-greater-than-average) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3174-clear-digits) |
 | [3312-number-of-changing-keys](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3312-number-of-changing-keys) |
+| [3713-longest-balanced-substring-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3794-reverse-string-prefix) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3713-longest-balanced-substring-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 | [3994-find-the-least-frequent-digit](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3994-find-the-least-frequent-digit) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Matrix
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1925-count-square-sum-triples) |
 | [2507-number-of-common-factors](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2507-number-of-common-factors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 ## Number Theory
 |  |
 | ------- |
