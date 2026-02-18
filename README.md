@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3174-clear-digits) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4058-compute-alternating-sum](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4058-compute-alternating-sum) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3373-maximum-prime-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3373-maximum-prime-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 | [3994-find-the-least-frequent-digit](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3994-find-the-least-frequent-digit) |
