@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0645-set-mismatch) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0071-simplify-path) |
+| [0290-word-pattern](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0290-word-pattern) |
 | [0844-backspace-string-compare](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0942-di-string-match) |
