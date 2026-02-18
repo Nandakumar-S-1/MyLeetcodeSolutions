@@ -15,14 +15,13 @@ var wordPattern = function (pattern, s) {
             if (dup.has(w[i])) {
                 return false
             }
-            map.set(p[i],w[i])
-            dup.set(w[i],true)
+            map.set(p[i], w[i])
+            dup.set(w[i], true)
         } else {
-            if(map.get(p[i])!==w[i]){
+            if (map.get(p[i]) !== w[i]) {
                 return false
             }
         }
     }
-    console.log(map,dup)
     return true
 };
