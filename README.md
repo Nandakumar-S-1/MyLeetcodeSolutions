@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0002-add-two-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Brainteaser
 |  |
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
