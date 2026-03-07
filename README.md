@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0071-simplify-path) |
 | [0290-word-pattern](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0290-word-pattern) |
+| [0415-add-strings](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0942-di-string-match) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0844-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0728-self-dividing-numbers) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
