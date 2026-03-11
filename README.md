@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0645-set-mismatch](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0645-set-mismatch) |
 | [0868-binary-gap](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1009-complement-of-base-10-integer) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Counting Sort
 |  |
