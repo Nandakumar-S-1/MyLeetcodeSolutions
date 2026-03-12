@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0071-simplify-path) |
+| [0257-binary-tree-paths](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0290-word-pattern) |
 | [0415-add-strings](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0520-detect-capital) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0257-binary-tree-paths](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [1980-find-unique-binary-string](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
@@ -331,11 +333,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
