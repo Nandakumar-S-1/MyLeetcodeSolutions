@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0665-non-decreasing-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0645-set-mismatch) |
 | [0929-unique-email-addresses](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
