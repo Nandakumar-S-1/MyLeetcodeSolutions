@@ -11,8 +11,5 @@ var distributeCandies = function(c) {
         }
         freq[i]=(freq[i]||0)+1
     }
-    for(let i in freq){
-
-    }
     return Math.min(co,c.length/2)
 };
