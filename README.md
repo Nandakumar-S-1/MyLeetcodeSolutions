@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0645-set-mismatch) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0071-simplify-path) |
 | [0257-binary-tree-paths](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0290-word-pattern) |
+| [0389-find-the-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0520-detect-capital) |
 | [0844-backspace-string-compare](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0844-backspace-string-compare) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0645-set-mismatch) |
 | [1200-minimum-absolute-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0645-set-mismatch) |
 | [0868-binary-gap](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1009-complement-of-base-10-integer) |
