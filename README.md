@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0728-self-dividing-numbers) |
+| [1185-day-of-the-week](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1185-day-of-the-week) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
