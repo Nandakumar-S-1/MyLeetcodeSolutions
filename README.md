@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0665-non-decreasing-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0777-toeplitz-matrix) |
+| [0912-sort-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0912-sort-an-array) |
 | [0929-unique-email-addresses](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0942-di-string-match) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0912-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -417,4 +421,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
