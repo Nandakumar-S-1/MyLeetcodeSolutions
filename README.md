@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1980-find-unique-binary-string](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1980-find-unique-binary-string) |
