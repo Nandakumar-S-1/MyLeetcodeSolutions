@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3373-maximum-prime-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3373-maximum-prime-difference) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2652-sum-multiples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3373-maximum-prime-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3373-maximum-prime-difference) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2571-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2574-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Tree
 |  |
 | ------- |
