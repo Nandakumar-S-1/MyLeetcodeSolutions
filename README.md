@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Brainteaser
 |  |
