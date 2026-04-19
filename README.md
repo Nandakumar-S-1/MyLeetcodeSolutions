@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0665-non-decreasing-array) |
+| [0724-find-pivot-index](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0777-toeplitz-matrix](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0777-toeplitz-matrix) |
 | [0912-sort-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0912-sort-an-array) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2571-find-the-pivot-integer) |
