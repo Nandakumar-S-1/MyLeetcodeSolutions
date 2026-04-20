@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2574-left-and-right-sum-differences](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2574-left-and-right-sum-differences) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1980-find-unique-binary-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3713-longest-balanced-substring-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3713-longest-balanced-substring-i) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3713-longest-balanced-substring-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 | [3994-find-the-least-frequent-digit](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3994-find-the-least-frequent-digit) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
