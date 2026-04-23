@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2574-left-and-right-sum-differences](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2574-left-and-right-sum-differences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Simulation
 |  |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3174-clear-digits) |
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0912-sort-an-array) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Merge Sort
 |  |
 | ------- |
