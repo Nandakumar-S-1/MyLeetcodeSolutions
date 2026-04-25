@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0120-triangle](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0120-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0219-contains-duplicate-ii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0120-triangle](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0120-triangle) |
 | [0392-is-subsequence](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Greedy
