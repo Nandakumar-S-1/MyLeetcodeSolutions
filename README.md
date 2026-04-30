@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-find-the-highest-altitude](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [2571-find-the-pivot-integer](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2571-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
