@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0844-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2058-concatenation-of-array) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0415-add-strings) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2413-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2507-number-of-common-factors) |
