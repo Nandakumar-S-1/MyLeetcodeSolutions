@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0633-sum-of-square-numbers) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0415-add-strings) |
