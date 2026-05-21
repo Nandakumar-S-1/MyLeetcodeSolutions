@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0645-set-mismatch) |
+| [0654-maximum-binary-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0665-non-decreasing-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0724-find-pivot-index) |
@@ -241,12 +242,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0844-backspace-string-compare](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0844-backspace-string-compare) |
 | [3174-clear-digits](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0496-next-greater-element-i) |
+| [0654-maximum-binary-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0654-maximum-binary-tree) |
 ## Counting
 |  |
 | ------- |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0257-binary-tree-paths) |
+| [0654-maximum-binary-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -477,11 +481,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0257-binary-tree-paths) |
+| [0654-maximum-binary-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0654-maximum-binary-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
