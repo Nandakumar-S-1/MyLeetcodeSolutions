@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1980-find-unique-binary-string) |
 | [2058-concatenation-of-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2058-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1980-find-unique-binary-string](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1980-find-unique-binary-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0912-sort-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Merge Sort
 |  |
