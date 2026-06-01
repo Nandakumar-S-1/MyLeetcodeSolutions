@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2126-destroying-asteroids](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2126-destroying-asteroids](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2126-destroying-asteroids](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2126-destroying-asteroids) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
