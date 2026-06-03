@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0633-sum-of-square-numbers) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0292-nim-game) |
 | [2481-strictly-palindromic-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2481-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
@@ -557,4 +559,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0912-sort-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
