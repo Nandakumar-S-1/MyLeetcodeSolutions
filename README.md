@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3870-count-commas-in-range](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3870-count-commas-in-range) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2507-number-of-common-factors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0120-triangle) |
 | [0392-is-subsequence](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
