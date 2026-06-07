@@ -10,18 +10,24 @@
  * @param {TreeNode} root
  * @return {boolean}
  */
-var isSymmetric = function(root) {
-    function sym(r1,r2){
-        if(!r1&&!r2){
+var isSymmetric = function (root) {
+    if (!root) return true
+
+    function checkSymetric(left, right) {
+        if (!left && !right) {
             return true
         }
-        if(!r1 ||!r2){
+
+        if (!left || !right) {
             return false
         }
-        if(r1.val !==r2.val){
+        if (left.val !== right.val) {
             return false
         }
-        return sym(r1.left ,r2.right) && sym(r1.right,r2.left)
+
+        return (checkSymetric(left.left, right.right) &&
+            checkSymetric(left.right, right.left)
+        )
     }
-    return sym(root.left,root.right)
+    return checkSymetric(root.left, root.right)
 };
