@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2239-find-closest-number-to-zero](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2239-find-closest-number-to-zero) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0942-di-string-match) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2481-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2500-delete-greatest-value-in-each-row) |
