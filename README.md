@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3174-clear-digits) |
 | [3312-number-of-changing-keys](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3312-number-of-changing-keys) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
