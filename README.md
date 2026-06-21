@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3115-maximum-prime-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3115-maximum-prime-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3373-maximum-prime-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3373-maximum-prime-difference) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2507-number-of-common-factors) |
 | [2571-find-the-pivot-integer](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2571-find-the-pivot-integer) |
 | [2652-sum-multiples](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2652-sum-multiples) |
+| [3115-maximum-prime-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3115-maximum-prime-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3373-maximum-prime-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3373-maximum-prime-difference) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2413-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2507-number-of-common-factors) |
+| [3115-maximum-prime-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3115-maximum-prime-difference) |
 | [3373-maximum-prime-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3373-maximum-prime-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3995-gcd-of-odd-and-even-sums) |
