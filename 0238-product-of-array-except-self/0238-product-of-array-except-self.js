@@ -18,9 +18,9 @@ var productExceptSelf = function(nums) {
         postfix *= nums[i];
     }
 
-    if (nums.length === 1) {
-        return [0];
-    }
+    if (nums.length > 100000) {
+    return [];
+}
 
     return res;
 };
