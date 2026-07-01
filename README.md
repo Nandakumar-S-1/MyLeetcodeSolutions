@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2595-number-of-even-and-odd-bits](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2595-number-of-even-and-odd-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Counting Sort
