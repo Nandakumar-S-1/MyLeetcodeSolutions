@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1880-check-if-word-equals-summation-of-two-words](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
