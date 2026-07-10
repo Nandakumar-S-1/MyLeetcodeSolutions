@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3174-clear-digits) |
+| [3280-convert-date-to-binary](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3280-convert-date-to-binary) |
 | [3312-number-of-changing-keys](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3312-number-of-changing-keys) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2652-sum-multiples) |
 | [3115-maximum-prime-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3115-maximum-prime-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3280-convert-date-to-binary](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3280-convert-date-to-binary) |
 | [3373-maximum-prime-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3373-maximum-prime-difference) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
