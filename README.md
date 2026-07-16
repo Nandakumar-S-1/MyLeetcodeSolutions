@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3861-minimum-capacity-box](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3861-minimum-capacity-box) |
 | [3925-concatenate-array-with-reverse](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3925-concatenate-array-with-reverse) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3994-find-the-least-frequent-digit](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3994-find-the-least-frequent-digit) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3794-reverse-string-prefix](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3794-reverse-string-prefix) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
