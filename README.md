@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0728-self-dividing-numbers) |
 | [1185-day-of-the-week](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1185-day-of-the-week) |
