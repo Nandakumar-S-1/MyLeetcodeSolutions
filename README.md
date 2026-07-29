@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0929-unique-email-addresses](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0520-detect-capital) |
+| [0771-jewels-and-stones](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0884-uncommon-words-from-two-sentences) |
