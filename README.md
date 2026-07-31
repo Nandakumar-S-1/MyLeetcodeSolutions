@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1580-shuffle-the-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-find-the-highest-altitude](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
