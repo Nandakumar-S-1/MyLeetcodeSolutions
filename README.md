@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0120-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0645-set-mismatch) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0169-majority-element) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1189-maximum-number-of-balloons](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1189-maximum-number-of-balloons) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -574,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0169-majority-element) |
 | [0654-maximum-binary-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -631,4 +636,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
