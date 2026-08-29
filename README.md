@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0263-ugly-number) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0120-triangle) |
 | [0392-is-subsequence](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0392-is-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -640,4 +642,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
