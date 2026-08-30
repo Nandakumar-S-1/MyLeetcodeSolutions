@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3945-digit-frequency-score](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3945-digit-frequency-score) |
 | [3994-find-the-least-frequent-digit](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3994-find-the-least-frequent-digit) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4000-largest-integer-with-given-digit-sum) |
 | [4039-compute-decimal-representation](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4039-compute-decimal-representation) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4116-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Backtracking
 |  |
 | ------- |
