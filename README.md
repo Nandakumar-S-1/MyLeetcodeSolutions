@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4011-smallest-absent-positive-greater-than-average) |
+| [4020-elevator-requests-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4020-elevator-requests-i) |
 | [4039-compute-decimal-representation](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4039-compute-decimal-representation) |
 | [4058-compute-alternating-sum](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4058-compute-alternating-sum) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3925-concatenate-array-with-reverse) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [4020-elevator-requests-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4020-elevator-requests-i) |
 | [4058-compute-alternating-sum](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/4058-compute-alternating-sum) |
 ## Math
 |  |
