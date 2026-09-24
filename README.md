@@ -655,4 +655,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0070-climbing-stairs) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
