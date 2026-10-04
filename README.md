@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2239-find-closest-number-to-zero](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2239-find-closest-number-to-zero) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2363-merge-similar-items](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2363-merge-similar-items) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2363-merge-similar-items](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2363-merge-similar-items) |
 | [2540-minimum-common-value](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2363-merge-similar-items](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2363-merge-similar-items) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -677,4 +680,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0020-valid-parentheses) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
