@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2278-percentage-of-letter-in-string) |
+| [2315-count-asterisks](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2315-count-asterisks) |
 | [2391-strong-password-checker-ii](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2391-strong-password-checker-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2833-furthest-point-from-origin) |
