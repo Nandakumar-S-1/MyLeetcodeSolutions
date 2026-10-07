@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0654-maximum-binary-tree) |
 | [0844-backspace-string-compare](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3174-clear-digits](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -689,4 +692,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2363-merge-similar-items](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/2363-merge-similar-items) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nandakumar-S-1/MyLeetcodeSolutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
